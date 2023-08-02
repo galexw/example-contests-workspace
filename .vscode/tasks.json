@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "rust competitive helper",
+      "command": "rust-competitive-helper",
+      "problemMatcher": []
+    }
+  ]
+}
